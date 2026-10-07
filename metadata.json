@@ -1,0 +1,6 @@
+{
+  "name": "ClinicalAI: Generative Medical Chatbot & Jupyter Workspace",
+  "description": "Interactive Gradio medical chatbot powered by Seq2Seq LLMs (Flan-T5 / BART) for clinical report question-answering with notebook execution and peer evaluation studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
